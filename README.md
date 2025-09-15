@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Hugo Ramalho and this is @HugosGitStuff.
-- 👀 I’m interested in stuff.
-- 🌱 I’m currently learning stuff.
