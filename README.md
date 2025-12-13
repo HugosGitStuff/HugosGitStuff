@@ -7,11 +7,11 @@
 
 ## A bit about me:
 <p align="justify">
-I'm a dedicated professional making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>.</p> 
+I'm a dedicated professional entreprenuer making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>.</p> 
 <br>
 <p>Previously, I completed an <strong>AI-Maker Development Bootcamp</strong>, building various projects including <strong>AI-powered tools</strong> and <strong>full-stack applications</strong>.</p> 
 <br>
-<p>My unique background spans two continents, 3 counries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.</p>
+<p>My unique background spans two continents, 3 countries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.</p>
 
 ---
 
@@ -34,15 +34,15 @@ I'm a dedicated professional making a focused transition into <strong>software e
   - Developing leadership and project management skills
  
 - **English Teacher at Uptime English Cummunication - Brazil (2008 - 2015):**
-  - Operating a solo airport transfer service across multiple cities.
-  - Focusing on client communication and operational efficiency.
+  - Teaching English at Uptime Comunicação em Inglês.
+  - Developing strong interpersonal and communication skills.
  
 ---
 
 ### Education
 
 - **High School:**
-  - Technical Degree in Manufacturing Technology at HATHS High School in Dabury, CT, USA.
+  - Technical Degree in Manufacturing Technology at HATHS High School in Dabury, CT, USA ⚙️ .
 
 - **University:**
   - Mechinal Engineering at Unileste, MG, Brazil :school:.
@@ -61,7 +61,7 @@ I'm a dedicated professional making a focused transition into <strong>software e
 ![SQL](https://img.shields.io/badge/SQL-%23000000?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web Development 
+### 🌐 Web Development 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -107,6 +107,8 @@ I'm a dedicated professional making a focused transition into <strong>software e
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HugosGitStuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HugosGitStuff&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=HugosGitStuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HugosGitStuff&theme=dark&hide_border=false)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugosGitStuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
