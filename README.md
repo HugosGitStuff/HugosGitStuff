@@ -1,4 +1,4 @@
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Hugo Ramalho and this is @HugosGitStuff.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Hugo Ramalho and this is @HugosGitStuff.
 
 ### Home
 - I'm based in Lisbon, Portugal. <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
@@ -7,8 +7,9 @@
 
 ## A bit about me:
 <p align="justify">
-I'm a dedicated professional making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>. Previously, I completed an <strong>AI-Maker Development Bootcamp</strong>, building various projects including <strong>AI-powered tools</strong> and <strong>full-stack applications</strong>. My unique background spans two continents, 3 counries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.
-</p>
+I'm a dedicated professional making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>. 
+Previously, I completed an <strong>AI-Maker Development Bootcamp</strong>, building various projects including <strong>AI-powered tools</strong> and <strong>full-stack applications</strong>. 
+My unique background spans two continents, 3 counries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.</p>
 
 ---
 
@@ -38,7 +39,7 @@ I'm a dedicated professional making a focused transition into <strong>software e
     
 ---
 
-## 🌐 Socials
+### Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-a-ramalho/)
    
 ## Programming Languages
