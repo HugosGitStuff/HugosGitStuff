@@ -7,9 +7,7 @@
 
 ## A bit about me:
 <p align="justify">
-I'm a dedicated professional making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>. 
-Previously, I completed an <strong>AI-Maker Development Bootcamp</strong>, building various projects including <strong>AI-powered tools</strong> and <strong>full-stack applications</strong>. 
-My unique background spans two continents, 3 counries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.</p>
+I'm a dedicated professional making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>. Previously, I completed an <strong>AI-Maker Development Bootcamp</strong>, building various projects including <strong>AI-powered tools</strong> and <strong>full-stack applications</strong>. My unique background spans two continents, 3 counries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.</p>
 
 ---
 
@@ -45,7 +43,7 @@ My unique background spans two continents, 3 counries and multiple industries, b
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-!![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-%23000000?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -57,25 +55,26 @@ My unique background spans two continents, 3 counries and multiple industries, b
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![XML](https://img.shields.io/badge/XML-%230000FF?style=for-the-badge&logo=xml&logoColor=white)
 
+### 🚀 Frontend & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ### 🗄️ Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Deployment/Hosting
+### ☁️ Deployment and Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-### 🐳 DevOps/Tools
+### 🐳 DevOps and Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🤖 AI/ML
+### 🤖 AI Agents
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
-## Frameworks / Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+## Frameworks and Libraries
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 💻 Development Tools / IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
