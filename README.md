@@ -25,7 +25,7 @@ I'm a dedicated professional entreprenuer making a focused transition into <stro
 
 ### Professional Experience
 
-- **Owner - Friendly Maneuver Transports and Tourism - Portugal (2018 - Present):**
+- **Founder & Owner - Friendly Maneuver Transports and Tourism - Portugal (2018 - Present):**
   - Operating a solo airport transfer service across multiple cities.
   - Focusing on client communication and operational efficiency.
  
