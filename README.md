@@ -25,11 +25,11 @@ I'm a dedicated professional entreprenuer making a focused transition into <stro
 
 ### Professional Experience
 
-- **Founder & Owner - Friendly Maneuver Transports and Tourism - Portugal (2018 - Present):**
+- **Founder & Owner - Friendly Maneuver Transports and Tourism - Portugal (2018 - Sept 2025):**
   - Operating a solo airport transfer service across multiple cities.
   - Focusing on client communication and operational efficiency.
  
-- **Founder & Owner - Ocean Gardens Garden Care - Portugal (2015 - Present):**
+- **Founder & Owner - Ocean Gardens Garden Care - Portugal (2015 - Sept 2025):**
   - Leading a team delivering exceptional landscaping services
   - Developing leadership and project management skills
  
