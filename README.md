@@ -1,17 +1,22 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Hugo Ramalho and this is @HugosGitStuff.
 
-### Home
-- I'm based in Lisbon, Portugal. <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
+### 👨‍💻 System.out.println("Hello, World!");
+- Based in Lisbon, Portugal <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
+- **Status:** Successfully Instantiated as a Software Engineer 🚀
 
 ---
 
-## A bit about me:
+## 🛠️ The "Attributes" (A bit about me)
 <p align="justify">
-I'm a dedicated professional entreprenuer making a focused transition into <strong>software engineering</strong> and <strong>AI development</strong>. Recently selected for a prestigious  <strong>full scholarship</strong> from <strong>Santander Bank</strong> to attend Portugal's premier coding bootcamp, <strong>Code For All_</strong>, where I'm mastering the full software engineering stack by learning and practicing <strong>Java</strong>, <strong>Spring</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. Spcializing also in <strong>PostgreSQL</strong> for database management. This competitive achievement, awarded to only <strong>10 candidates out of 1200</strong>, demonstrates my commitment to <strong>excellence in technology</strong>.</p> 
-<br>
-<p>Previously, I completed an <strong>AI-Maker Development Bootcamp</strong>, building various projects including <strong>AI-powered tools</strong> and <strong>full-stack applications</strong>.</p> 
-<br>
-<p>My unique background spans two continents, 3 countries and multiple industries, bringing valuable perspective to software development. Combining growing technical expertise with years of <strong>entrepreneurial experience</strong>, I bring both strong problem-solving abilities and a drive for innovation to every project.</p>
+I'm a serial <strong>entrepreneur</strong> making a high-velocity transition into <strong>Software Engineering</strong> and <strong>AI Development</strong>. I don't just write code; I build solutions with a founder's mindset. 
+</p>
+
+🏆 **The Santander Scholar:** I was 1 of only **10 candidates selected out of 1,200** for a prestigious full scholarship to **Code For All_** (#107 Lisboa). This 14-week immersive grind allowed me to master the full software engineering stack, focusing on robust backend architectures and dynamic frontends.
+
+**My Technical Philosophy:**
+- **Backend Mastery:** Java 8 enthusiast. I love clean Design Patterns, protecting data with Encapsulation, and making sure every "Square Hole" has its perfect match.
+- **Frontend Magic:** I thrive in the "beautiful chaos" of **JavaScript** and DOM manipulation, building Single Page Applications (SPAs) that deliver seamless user experiences.
+- **AI-Powered:** Graduate of the **AI-Maker Development Bootcamp**, specializing in AI agents (CrewAI) and full-stack AI integration.
 
 ---
 
@@ -23,33 +28,29 @@ I'm a dedicated professional entreprenuer making a focused transition into <stro
 
 ---
 
-### Professional Experience
+### 💼 Professional Journey (The Pivot)
 
-- **Founder & Owner - Friendly Maneuver Transports and Tourism - Portugal (2018 - Sept 2025):**
-  - Operating a solo airport transfer service across multiple cities.
-  - Focusing on client communication and operational efficiency.
+- **Software Engineer in Training - Code For All_ (Sept 2025 - Dec 2025):** - 800+ hours of intensive coding, focusing on Java, Spring, and JS.
+  
+- **Founder & Owner - Friendly Maneuver Transports (2018 - 2025):**
+  - Optimized logistics and operational efficiency in high-pressure environments.
  
-- **Founder & Owner - Ocean Gardens Garden Care - Portugal (2015 - Sept 2025):**
-  - Leading a team delivering exceptional landscaping services
-  - Developing leadership and project management skills
+- **Founder & Owner - Ocean Gardens Garden Care (2015 - 2025):**
+  - Led cross-functional teams and managed complex project lifecycles.
  
-- **English Teacher at Uptime English Cummunication - Brazil (2008 - 2015):**
-  - Teaching English at Uptime Comunicação em Inglês.
-  - Developing strong interpersonal and communication skills.
- 
+- **English Teacher - Uptime English Communication (2008 - 2015):**
+  - Developed the strong interpersonal and communication skills I now use for technical documentation and team collaboration.
+
 ---
 
-### Education
+### 🎓 Education
 
-- **High School:**
-  - Technical Degree in Manufacturing Technology at HATHS High School in Dabury, CT, USA ⚙️ .
-
-- **University:**
-  - Mechinal Engineering at Unileste, MG, Brazil :school:.
+- **Technical Degree:** Manufacturing Technology - HATHS High School, CT, USA ⚙️.
+- **University:** Mechanical Engineering - Unileste, MG, Brazil 🏫.
     
 ---
 
-### 🔗 Find me on:
+### 🔗 Let's Collab!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-a-ramalho/)
 
 ---
@@ -105,6 +106,8 @@ I'm a dedicated professional entreprenuer making a focused transition into <stro
 
 ### 📜 Scripting
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HugosGitStuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=HugosGitStuff&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugosGitStuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
