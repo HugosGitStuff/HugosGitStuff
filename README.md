@@ -1,7 +1,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Hugo Ramalho and this is @HugosGitStuff.
 
 ### 👨‍💻 System.out.println("Hello, World!");
-- Based in Lisbon, Portugal <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
+- Based in Portugal <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
 - **Status:** Successfully Instantiated as a Software Engineer 🚀
 
 ---
