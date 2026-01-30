@@ -11,7 +11,7 @@
 I'm a serial <strong>entrepreneur</strong> making a high-velocity transition into <strong>Software Engineering</strong> and <strong>AI Development</strong>. I don't just write code; I build solutions with a founder's mindset. 
 </p>
 
-🏆 **The Santander Scholar:** I was 1 of only **10 candidates selected out of 1,200** for a prestigious full scholarship to **Code For All_** (#107 Lisboa). This 14-week immersive grind allowed me to master the full software engineering stack, focusing on robust backend architectures and dynamic frontends.
+🏆 **The Santander Scholar:** I was 1 of only **10 candidates selected out of 1,200 applicants** for a prestigious full scholarship to **Code For All_** (#107 Lisboa). This 14-week immersive grind allowed me to master the full software engineering stack, focusing on robust backend architectures and dynamic frontends.
 
 **My Technical Philosophy:**
 - **Backend Mastery:** Java 8 enthusiast. I love clean Design Patterns, protecting data with Encapsulation, and making sure every "Square Hole" has its perfect match.
